@@ -1,9 +1,9 @@
 # zuc
-[![ISC License](http://img.shields.io/badge/license-ISC-blue.svg)](https://github.com/pedroalbanese/edgetk/blob/master/LICENSE.md) 
-[![GoDoc](https://godoc.org/github.com/pedroalbanese/edgetk?status.png)](http://godoc.org/github.com/pedroalbanese/edgetk)
-[![Go Report Card](https://goreportcard.com/badge/github.com/pedroalbanese/edgetk)](https://goreportcard.com/report/github.com/pedroalbanese/edgetk)
-[![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/pedroalbanese/edgetk)](https://golang.org)
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/pedroalbanese/edgetk)](https://github.com/pedroalbanese/edgetk/releases)
+[![ISC License](http://img.shields.io/badge/license-ISC-blue.svg)](https://github.com/pedroalbanese/zuc/blob/master/LICENSE.md) 
+[![GoDoc](https://godoc.org/github.com/pedroalbanese/zuc?status.png)](http://godoc.org/github.com/pedroalbanese/zuc)
+[![Go Report Card](https://goreportcard.com/badge/github.com/pedroalbanese/zuc)](https://goreportcard.com/report/github.com/pedroalbanese/zuc)
+[![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/pedroalbanese/zuc)](https://golang.org)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/pedroalbanese/zuc)](https://github.com/pedroalbanese/zuc/releases)
 
 ## GM/T 0001-2012 Zu Chongzhi stream cipher 
 ### Confidentiality algorithm 128-EEA3 and the 3GPP integrity algorithm 128-EIA3.
